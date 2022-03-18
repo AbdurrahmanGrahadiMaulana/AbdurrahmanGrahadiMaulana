@@ -1,6 +1,6 @@
-### Hi there 👋 , I'm GrahadiM!
+### Hi there 👋 , I'm Abdurrahman Grahadi Maulana!
     
-Hi there, I'm **GrahadiM**, a **Web Developer**, a **App Developer** and a **Software Engineering Student** 🚀 from Indonesia.
+Hi there, I'm **Abdurrahman Grahadi Maulana**, a **Web Developer**, a **App Developer** and a **Software Engineering Student** 🚀 from Indonesia.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
